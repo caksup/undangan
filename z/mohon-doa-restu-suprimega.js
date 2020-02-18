@@ -2,7 +2,7 @@ let chars, particles, canvas, ctx, w, h, current;
 
 let duration = 5000;
 
-let str = ['Mohon', 'Do'a ', 'Restu' , 'Supri&Mega'];
+let str = ['Mohon', 'Doa', 'Restu' , 'Supri & Mega'];
 
 init();
 
@@ -62,7 +62,7 @@ function init() {
 
     document.body.style.overflow = 'hidden'
 
-    document.body.style.background = 'black'
+    document.body.style.background = 'transparent'
 
     ctx = canvas.getContext('2d');
 
