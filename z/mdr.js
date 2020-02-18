@@ -2,7 +2,7 @@ let chars, particles, canvas, ctx, w, h, current;
 
 let duration = 5000;
 
-let str = ['Mohon', 'Doa', 'Restu' , 'SupriMega '];
+let str = ['MOHON', 'DOA', 'RESTU' , 'SUPRIMEGA'];
 
 init();
 
